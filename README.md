@@ -6,7 +6,7 @@ This is an [interactive map](http://matthodges.com/new_mexico_2016_precinct_map/
 
 ## License
 
-The demo page in this repository is licensed under [The MIT License](https://github.com/hodgesmr/new_mexico_county_map/blob/master/LICENSE)
+The demo page in this repository is licensed under [The MIT License](https://github.com/hodgesmr/new_mexico_2016_precinct_map/blob/master/LICENSE)
 
 ## Data
 
