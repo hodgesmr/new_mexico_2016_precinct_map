@@ -1,21 +1,21 @@
-New Mexico 2016 Precinct Map (http://matthodges.com/new_mexico_2016_precinct_map/)
+# New Mexico County Map
 
-Copyright (c) 2017 Matt Hodges (http://matthodges.com)
+![map](https://raw.githubusercontent.com/hodgesmr/new_mexico_2016_precinct_map/master/img/map.png)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This is an [interactive map](http://matthodges.com/new_mexico_2016_precinct_map/) illustrating precinct-level New Mexico results for the 2016 presidential election.
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+## License
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+The demo page in this repository is licensed under [The MIT License](https://github.com/hodgesmr/new_mexico_county_map/blob/master/LICENSE)
+
+## Data
+
+This repository contains a modified representation of 2016 results and New Mexico precinct geojson.
+
+You can download the [original geojson from Data.gov](https://catalog.data.gov/dataset/new-mexico-voting-precincts-2012). These are the boundaries for the New Mexico State Voting Precincts for the 2012 through 2020 election cycles. This dataset is covered by different Terms of Use than Data.gov.
+
+You can download the [original precinct-level results from OpenElections](https://github.com/openelections/openelections-data-nm).
+
+## A Matt Hodges project
+
+This project is maintained by [@hodgesmr](http://twitter.com/hodgesmr).
